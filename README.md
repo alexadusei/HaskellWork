@@ -1,2 +1,2 @@
 # HaskellWork
-Projects and scripts completed in Haskell.
+Projects and modules completed in Haskell.
